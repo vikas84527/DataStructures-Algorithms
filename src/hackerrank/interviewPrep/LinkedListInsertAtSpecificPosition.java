@@ -1,4 +1,4 @@
-package datastructures.linkedList;
+package hackerrank.interviewPrep;
 import java.io.*;
 import java.math.*;
 import java.security.*;
